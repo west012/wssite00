@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+
+}
+.class1{
+    background-color: teal;
+}
+#id1{
+    background-color: thistle;
+}
+.newDiv{
+    height: 400px;
+    color: yellow;
+    width: 200px;
+    background-color: Green;
+    padding: 9px;
+    margin: auto;
+}

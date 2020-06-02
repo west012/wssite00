@@ -1,0 +1,12 @@
+.loudslap{
+    border-radius: 5px;
+    padding: 10px;
+
+}
+body{
+    background-color:rgb(123,16,200);
+}
+.loudslap:hover{
+    border: 3px solid grey; 
+    box-shadow: 3px, 3px solid black; 
+}
